@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifycognito2-dev-174031",
       "StackId": "arn:aws:cloudformation:ap-northeast-2:803936485311:stack/amplify-amplifycognito2-dev-174031/71cb2770-158f-11ee-a9ca-0a5dc52d3dfc",
       "AmplifyAppId": "dz8umkoadyn6g"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
     }
   }
 }
